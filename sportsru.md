@@ -18,5 +18,14 @@
 ![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20zagi.png)
 ![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20both.png)
 
+Очень интересно как Медведеву заплюсовали в конце ноября (совпадает по времени с этапом Гран При во Франции), она столько плюсов наверное за всю остальную карьеру не собрала сколько за те две недели. Самые заплюсованные посты:
+- +802 | -94 https://www.sports.ru/tribuna/blogs/fskitanie/2257665.html
+- +586 | -236 https://www.sports.ru/tribuna/blogs/fskitanie/2251134.html
+- +550 | -62 https://www.sports.ru/tribuna/blogs/zapisnaknizhka/2259001.html
+- +474 | -145 https://www.sports.ru/tribuna/blogs/fskitanie/2260177.html
+- +452 | -36 https://www.sports.ru/tribuna/blogs/fskitanie/2257565.html
+- +410 | -48 https://www.sports.ru/tribuna/blogs/fskitanie/2255192.html
+(кстати, в "fskitanie" веерно банили всех несогласных)
+
 
 
