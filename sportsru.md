@@ -25,6 +25,7 @@
 - +474 | -145 https://www.sports.ru/tribuna/blogs/fskitanie/2260177.html
 - +452 | -36 https://www.sports.ru/tribuna/blogs/fskitanie/2257565.html
 - +410 | -48 https://www.sports.ru/tribuna/blogs/fskitanie/2255192.html
+
 (кстати, в "fskitanie" веерно банили всех несогласных)
 
 
