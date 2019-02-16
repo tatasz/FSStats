@@ -8,7 +8,7 @@
 Все (ну то есть большую часть, так как собирать можно только по списку), будут после.
 
 Число постов где в тэгах указана только Медведева, только Загитова, и тех где указаны они обе.
-!(https://github.com/tatasz/FSStats/blob/master/sportsru/num%20blogposts.png)
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/num%20blogposts.png)
 
 
 
