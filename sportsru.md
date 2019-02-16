@@ -10,6 +10,13 @@
 Число постов где в тэгах указана только Медведева, только Загитова, и тех где указаны они обе.
 ![img](https://github.com/tatasz/FSStats/blob/master/sportsru/num%20blogposts.png)
 
+Пропорциональное соотношение плюсов и минусов в постах (тут я использовала среднюю с большим интервалом), и очень примерные тенденции. Посты с тэгом "Евгения Медведева" стали получать гораздо больше минусов на каждый плюс где-то с начала 2018го года.
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/ratio%20blogposts.png)
+
+Просто количество плюсов и минусов для каждой категории постов:
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20meda.png)
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20zagi.png)
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20both.png)
 
 
 
