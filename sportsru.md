@@ -31,6 +31,8 @@
 Теперь посмотрим на наиболее используемые слова. Я - произвольно - разделила все время на 4 периода: 2017й год, потом ЧЕ, ОИ и ЧМ, потом от перехода Медведевой к Орсеру до конца ноября, и наконец все что было после этого.
 
 Наиболее используемые слова в блогах с тэгом Евгения Медведева (слева) и Алина Загитова (справа) в 2017ом году:
-![img](https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words01.png) ![img](https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words01.png)
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words01.png | width=400) ![img](https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words01.png | width=400)
+
+Про Медведеву пишут много разного, а Загитова, на тот момент, это какая то девочка с прыжками и произвольной. Ну и баллов еще ей много дают. 
 
 
