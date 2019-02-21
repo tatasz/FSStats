@@ -51,3 +51,5 @@
 И наконец ЧР, ЧЕ и народные выборы команды на ЧМ:
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words04.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words04.png" width="400" height="400" />
+
+У Медведевой более или менее просто - обсуждения ЧР и гадания того кто поедет на ЧМ, Женя или Лиза. У Загитовой имеем обсуждения ЧР и ЧЕ, и снова большой разброс всего остального.
