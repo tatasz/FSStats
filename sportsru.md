@@ -35,4 +35,5 @@
 
 Про Медведеву пишут много разного, а Загитова, на тот момент, это какая то девочка с прыжками и произвольной. Ну и баллов еще ей много дают. 
 
-
+Дальше ЧЕ, ОИ и ЦМ. Медведева снова слева, а Загитова справа.
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words02.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words02.png" width="400" height="400" />
