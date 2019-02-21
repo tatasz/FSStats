@@ -45,3 +45,9 @@
 Медведева переходит к Орсеру. Потом бэшки и этапы Гран При. Имеем такое:
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words03.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words03.png" width="400" height="400" />
+
+С Медведевой все просто, новый тренер Орсер, переезд в Канаду. Почему-то поминают Липницкую. Восторженных эпитетов немного поубавилось, но в общем никто особо не ругает. С Загитовой сложнее - имеем большой разброс мнений. Три слова присутствуют практически везде, а остальное содержание варьирует - поэтому получается что все остальные топовые слова используются относительно редко.
+
+И наконец ЧР, ЧЕ и народные выборы команды на ЧМ:
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words04.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words04.png" width="400" height="400" />
