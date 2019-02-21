@@ -32,6 +32,24 @@
 
 (кстати, в "fskitanie" веерно банили всех несогласных)
 
+Во всех перечисленных постах о Медведевой отзываются положительно и с любовью.
+
+В сезоне 2018-19, посты про Загитову плюсуются к каждому ее соревнованию. Самые заплюсованные:
+
+- 799 | -13 https://www.sports.ru/tribuna/blogs/realcorwin/1606214.html
+- 656 | -17 https://www.sports.ru/tribuna/blogs/sportsperson/2244052.html
+- 600 | -588 https://www.sports.ru/tribuna/blogs/allresp/2274127.html *
+- 560 | -29 https://www.sports.ru/tribuna/blogs/residenceofhermes/2269024.html
+- 531 | -84 https://www.sports.ru/tribuna/blogs/fkonelove/2334510.html #
+- 515 | -180 https://www.sports.ru/tribuna/blogs/fotoblog/2326080.html *
+- 514 | -29 https://www.sports.ru/tribuna/blogs/japanskatingnews/2344768.html
+- 499 | -73 https://www.sports.ru/tribuna/blogs/gatekeeper_16/2272691.html
+- 494 | -278 https://www.sports.ru/tribuna/blogs/ontheice/2329360.html *
+- 480 | -38 https://www.sports.ru/tribuna/blogs/msafronova/2261032.html
+- 452 | -563 https://www.sports.ru/tribuna/blogs/russiateam/2289880.html *
+
+Посты отмеченные (*) содержат критику спортсменки, а пост с (#) это жалоба на необьективность ресурса и хейт по отношению к спортсменке. В отличае наиболее отплюсованных постов про Медведеву, тут мы наблюдаем большее разнообразие авторов (все посты с 450+ плюсами в разных блогах), и как положительное так и отрицательное отношение к спортсменке.
+
 ### Наиболее используемые слова
 
 Теперь посмотрим на наиболее используемые слова. Я - произвольно - разделила все время на 4 периода: 2017й год, потом ЧЕ, ОИ и ЧМ, потом от перехода Медведевой к Орсеру до конца ноября, и наконец все что было после этого. На картинках 50 наиболее употребляемых слов, чем крупнее слово, тем чаще оно используется.
