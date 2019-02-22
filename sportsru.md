@@ -111,4 +111,20 @@
 
 Во вторых, видим сильный "прирост" новостей по отношению к 2017ому году. Или спортс просек интерес народа к этой теме и решил воспользоваться ажиотажем, либо ажиотаж подогревается искуственно. Тут каждый трактует в меру своей испорченности. Кстати, корреляция между числом постов в день и числом комментариев в этих постах равна 84%.
 
-В третьих, хотя в ленте пишут больше про Загитову, новостей на сайте больше про Медведеву. Сравним, например, этапы Гран При. На первом этапе Загитовой, про нее писали, на пике, около 3х новостей в день. На первом этапе Медведевой, про нее было по 5 новостей в день. 
+В третьих, хотя в ленте пишут больше про Загитову, новостей на сайте больше про Медведеву. Сравним, например, этапы Гран При. На первом этапе Загитовой, про нее писали, на пике, около 3х новостей в день. На первом этапе Медведевой, про нее было по 5 новостей в день.
+
+
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words011.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words011.png" width="400" height="400" />
+
+
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words021.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words021.png" width="400" height="400" />
+
+
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words031.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words031.png" width="400" height="400" />
+
+
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words041.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words041.png" width="400" height="400" />
