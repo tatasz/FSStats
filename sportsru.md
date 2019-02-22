@@ -125,7 +125,7 @@
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words011.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words011.png" width="400" height="400" />
 
-
+Дальше все просто: золото и серебро на Олимпиаде, провал на ЧМ, пропуск ЧМ Медведевой из за травмы.
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words021.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words021.png" width="400" height="400" />
 
