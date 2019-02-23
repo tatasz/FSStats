@@ -121,6 +121,9 @@
 То что поисходит в этом сезоне я думаю все уже читали.
 
 
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm01.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm02.png" width="400" height="400" />
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm03.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm04.png" width="400" height="400" />
 
 # Новости
 
