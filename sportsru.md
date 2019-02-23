@@ -144,7 +144,7 @@
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words021.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words021.png" width="400" height="400" />
 
-
+У медведевой обсуждают переход, Орсера и Тутберидзе. Загитова - наконец то олимпийская чемпионка.
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words031.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words031.png" width="400" height="400" />
 
