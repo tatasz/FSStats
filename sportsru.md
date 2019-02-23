@@ -100,6 +100,12 @@
 
 В принципе про Медведеву пишут немного подлинее, так что может и так.
 
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm01.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm02.png" width="400" height="400" />
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm03.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm04.png" width="400" height="400" />
+
+
 ### Чувства
 
 Анализ чувств довольно таки туфта, особенно когда надо оценить какую нибудь иронию и тому подобное. Но в общем то результаты большей частью довольно адекватные, поэтому посмотрим что и как.
@@ -119,11 +125,6 @@
 В июне пик позитива в постах про Медведеву связан с большим обзором карьеры Орсера: https://www.sports.ru/tribuna/blogs/heroesofsport/1733208.html.
 
 То что поисходит в этом сезоне я думаю все уже читали.
-
-
-<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm01.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm02.png" width="400" height="400" />
-
-<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm03.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm04.png" width="400" height="400" />
 
 # Новости
 
