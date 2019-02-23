@@ -22,8 +22,6 @@
 
 Просто количество плюсов и минусов для каждой категории постов:
 ![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20meda.png)
-![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20zagi.png)
-![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20both.png)
 
 Очень интересно как Медведеву заплюсовали в конце ноября (совпадает по времени с этапом Гран При во Франции), она столько плюсов наверное за всю остальную карьеру не собрала сколько за те две недели. Самые заплюсованные посты:
 - +802 | -94 https://www.sports.ru/tribuna/blogs/fskitanie/2257665.html
@@ -36,6 +34,13 @@
 (кстати, в "fskitanie" веерно банили всех несогласных)
 
 Во всех перечисленных постах о Медведевой отзываются положительно и с любовью.
+
+Пик негатива в ноябре 2017ого связан с обсуждением олимпиады без российского флага вот здесь: https://www.sports.ru/tribuna/blogs/russiateam/1462980.html.
+
+Самый заминусованный пост связан с переходом к Орсеру: https://www.sports.ru/tribuna/blogs/russiateam/1689286.html
+
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20zagi.png)
+![img](https://github.com/tatasz/FSStats/blob/master/sportsru/votes%20both.png)
 
 В сезоне 2018-19, посты про Загитову плюсуются к каждому ее соревнованию. Самые заплюсованные:
 
