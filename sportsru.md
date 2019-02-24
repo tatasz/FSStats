@@ -162,3 +162,8 @@
 Ну и наконец во второй половине сезона новости про ЧР, а у Загитовой, еще и про финал Гран При.
 
 <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/meda_words041.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zagi_words041.png" width="400" height="400" />
+
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm011.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm021.png" width="400" height="400" />
+
+<img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm031.png" width="400" height="400" /> <img src="https://github.com/tatasz/FSStats/blob/master/sportsru/zxm041.png" width="400" height="400" />
