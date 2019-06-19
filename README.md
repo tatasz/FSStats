@@ -1,2 +1,0 @@
-# FSStats
-Figure Skating Statistics
